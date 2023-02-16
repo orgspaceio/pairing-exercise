@@ -53,7 +53,7 @@ This skeleton repo includes a single executable file, `src/summary.ts`. I've use
 *Example:*
 
 ```sh
-$ cat << EVENTS | bun src/summary
+$ cat << EVENTS | bun src/summary.ts
  {"type": "PersonCreated", "payload": {"id": "guybrush", "name": "Guybrush Threepwood"}}
  {"type": "PersonCreated", "payload": {"id": "elaine", "name": "Elaine Marley"}}
  {"type": "PersonAssignedToManager", "payload": {"id": "guybrush", "managerId": "elaine"}}
