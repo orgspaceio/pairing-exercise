@@ -16,6 +16,13 @@ Therefore:
 * We try to be explicit about what we expect and what we're looking for—no guesswork involved.
 * We avoid surprise puzzle questions that the only reviewer (or an experienced interviewee) has already heard the answer to.
 
+
+### Testimonials
+
+> [This kind of technical assessment] remains the gold standard for interviewing, in my experience, as both interviewer and interviewee. Well done, Brian and team, for promoting this practice.
+
+[David Rupp, Senior Software Development Engineer, AWS](https://www.linkedin.com/posts/davidrupp_github-orgspaceiopairing-exercise-orgspace-activity-7030520175439343616-cdIQ)
+
 ### What we're looking for in a solution
 
 * When pairing:
