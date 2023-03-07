@@ -16,13 +16,6 @@ Therefore:
 * We try to be explicit about what we expect and what we're looking for—no guesswork involved.
 * We avoid surprise puzzle questions that the only reviewer (or an experienced interviewee) has already heard the answer to.
 
-
-### Testimonials
-
-> [This kind of technical assessment] remains the gold standard for interviewing, in my experience, as both interviewer and interviewee. Well done, Brian and team, for promoting this practice.
-
-[David Rupp, Senior Software Development Engineer, AWS](https://www.linkedin.com/posts/davidrupp_github-orgspaceiopairing-exercise-orgspace-activity-7030520175439343616-cdIQ)
-
 ### What we're looking for in a solution
 
 * When pairing:
@@ -38,6 +31,16 @@ Therefore:
 ### Meta
 
 This skeleton repo includes a single executable file, `src/summary.ts`. I've used [bun](https://bun.sh/) below, but you may execute it using `ts-node` or whatever you like. Suggestions on how to standardize this are welcome.
+
+### Testimonial
+
+> [This kind of technical assessment] remains the gold standard for interviewing, in my experience, as both interviewer and interviewee. Well done, Brian and team, for promoting this practice.
+
+[David Rupp, Senior Software Development Engineer, AWS](https://www.linkedin.com/posts/davidrupp_github-orgspaceiopairing-exercise-orgspace-activity-7030520175439343616-cdIQ)
+
+<br>
+<br>
+<hr>
 
 ## Challenge
 
